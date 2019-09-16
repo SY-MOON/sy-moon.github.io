@@ -488,6 +488,8 @@ margin on the iframe, cause it breaks stuff. */
 
 .main-header .inner {
     width: 80%;
+
+    text-shadow: 0 0 20px rgba(0,0,0,0.2); /*0916 추가*/
 }
 
 .main-nav {
