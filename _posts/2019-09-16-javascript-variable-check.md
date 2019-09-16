@@ -1,7 +1,7 @@
 ---
 title: "[Javascript] 변수 존재여부 체크"
 date: 2019-09-16 20:21:00
-categories: etc.
+categories: javascript
 ---
 
 #### 전역 변수의 존재 여부를 체크 할 때 아래처럼!
