@@ -1,6 +1,6 @@
 ---
 title: "[Javascript] Type"
-date: 2019-09-14 10:39:00 -0400
+date: 2019-09-16 20:14:00
 categories: Javascript
 ---
 
@@ -39,6 +39,7 @@ typeof Symbol //function
 * typeof가 반환하는 function은 object의 하위 타입임(callable object)
 * typeof 연산자의 반환값은 "String"임(typeof typeof 1 //string)
 
+* * *
 
 ### "변수는 타입이 없다"
 변수는 값을 가질 뿐 
