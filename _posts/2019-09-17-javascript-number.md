@@ -22,7 +22,7 @@ categories: javascript
 
 * toFixed()
 
-        지정한 숫자만큼 소수점 이하 자리까지 숫자를 나타내며 문자열 형태로 반환함
+지정한 숫자만큼 소수점 이하 자리까지 숫자를 나타내며 문자열 형태로 반환함
 
         <pre><code>var num = 12.3;
 
@@ -33,7 +33,7 @@ categories: javascript
 
 * toPrecision()
 
-        전체 숫자 자리수를 지정
+전체 숫자 자리수를 지정
 
         <pre><code>var num = 12.3;
 
