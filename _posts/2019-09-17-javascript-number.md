@@ -54,13 +54,13 @@ NaN은 NaN과 비교불가
 
 * isNaN()
 
-        NaN인지 아닌지 확인용
+NaN인지 아닌지 확인용
 
-        <pre><code>var x = 12 / 'abc';
+<pre><code>var x = 12 / 'abc';
 
-        isNaN(x); //true
-        </code></pre>
+isNaN(x); //true
+</code></pre>
 
-        문제는, 일반적인 문자열을  isNaN()에 넣을 경우도 NaN으로만 인식을 해버림
+문제는, 일반적인 문자열을  isNaN()에 넣을 경우도 NaN으로만 인식을 해버림
 
-        ES6부터는 *Number.isNaN()*으로 문제 없이 사용가능!
+ES6부터는 *Number.isNaN()*으로 문제 없이 사용가능!
