@@ -18,8 +18,7 @@ null, undefined, string, number, boolean, symbol
 
 변수가 아닌 값 자체를 가리키므로, 가리키는 대상의 값을 바꿀수는 없음
 
-<pre><code>
-var a = [1, 2, 3];
+<pre><code>var a = [1, 2, 3];
 var b = a;
 
 a; //[1, 2, 3]
