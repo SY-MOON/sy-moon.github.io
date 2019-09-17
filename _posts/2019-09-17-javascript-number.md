@@ -17,7 +17,7 @@ categories: javascript
 1E10 = 10,000,000,000
 
  
-
+* * *
  
 
 * toFixed()
@@ -40,7 +40,7 @@ num.toFixed(3); //12.300
 num.toPrecision(5); //12.300
 </code></pre>
        
- 
+* * *
 
 ##### NaN(Not a Number)
 
