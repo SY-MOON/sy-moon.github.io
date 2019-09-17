@@ -6,12 +6,12 @@ categories: javascript
 
 #### Number
 
+
 자바스크립트의 숫자 타입 
 
 정수와 부동 소수점 숫자를 포함함
 
  
-
 큰 숫자의 경우 지수형 표현을 사용함
 
 1E10 = 10,000,000,000
@@ -24,10 +24,10 @@ categories: javascript
 
 지정한 숫자만큼 소수점 이하 자리까지 숫자를 나타내며 문자열 형태로 반환함
 
-        <pre><code>var num = 12.3;
+<pre><code>var num = 12.3;
 
-        num.toFixed(3); //12.300
-        </code></pre>
+num.toFixed(3); //12.300
+</code></pre>
  
  
 
@@ -35,10 +35,10 @@ categories: javascript
 
 전체 숫자 자리수를 지정
 
-        <pre><code>var num = 12.3;
+<pre><code>var num = 12.3;
 
-        num.toPrecision(5); //12.300
-        </code></pre>
+num.toPrecision(5); //12.300
+</code></pre>
        
  
 
