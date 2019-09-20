@@ -1,5 +1,5 @@
 ---
-title: "[Node.js] express로 웹서버 만들기"
+title: "[Node.js] express로 웹서버 만들기 1"
 date: 2019-09-20 22:25:00 -0700
 categories: node.js javascript
 ---
@@ -28,7 +28,7 @@ categories: node.js javascript
   * get([path,]function) : 특정 패스로 요청된 정보 처리
 
 
-#### app.set() 메소드로 포트를 설정함
+##### app.set() 메소드로 포트를 설정함
 <pre><code>app.set(‘port’, 3000) //3000번 포트 설정
 app.get(‘port’) //설정한 포트를 가져옴
 </code></pre>
